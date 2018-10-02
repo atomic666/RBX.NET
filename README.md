@@ -8,3 +8,5 @@ RoNet / RBX.NET is a ROBLOX Cookie Based Stresser that sends HTTP GET requests t
 WHY
 It is entierly watered down (ROBLOX limited to 1k REQ / game) so this thing would require an almost full re-write.
 I'm releasing this to the ones who are dedicated, and will find workarounds.
+
+also this is the first unedited version 
