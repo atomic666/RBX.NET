@@ -2,7 +2,7 @@
 -- twitter.com/h0nda1337
 
 --          v This is where you put your target URL
-targetUrl = "https://www.identityrpg.com/"
+targetUrl = "https://INSERT URL HERE/"
 
 -- #{rnd} = math.random()
 
