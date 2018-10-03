@@ -1,4 +1,5 @@
 # RBX.NET
+DISCLAIMER:-<i'm not responsible for if you use this tool to harm or do illegal thing>-
 RELEASE
 Well, time to release this since it's useless to me.
 
