@@ -1,5 +1,5 @@
 -- Basic DoS for RBX.NET
--- 
+ 
 
 --          v This is where you put your target URL
 targetUrl = "https://INSERT URL HERE/"
