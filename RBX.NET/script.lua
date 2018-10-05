@@ -1,5 +1,5 @@
 -- Basic DoS for RBX.NET
--- twitter.com/h0nda1337
+
 
 --          v This is where you put your target URL
 targetUrl = "https://web.roblox.com"
