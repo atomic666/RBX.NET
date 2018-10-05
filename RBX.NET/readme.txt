@@ -1,4 +1,4 @@
-twitter.com/h0nda1337
+
 
 Place your cookies in misc/cookies.txt, each cookie should by seperated by a newline. (make sure you have a few hundred atleast)
 
