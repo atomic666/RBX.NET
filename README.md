@@ -1,5 +1,5 @@
 # RBX.NET
-DISCLAIMER:-<i'm not responsible for if you use this tool to harm or do illegal thing>-
+DISCLAIMER:-<i'm not responsible if you use this tool to harm or do illegal thing>-
 
 
 RELEASE 
