@@ -1,7 +1,7 @@
 # RBX.NET
 
 
-# apologies to rbx.place and rbx.rocks
+#
 
 import time
 import random
